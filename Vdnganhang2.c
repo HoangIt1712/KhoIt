@@ -1,4 +1,3 @@
-// Created by Dang Khoi Thi on 5/17/23.
 
 #include <stdio.h>
 #include <stdlib.h>
